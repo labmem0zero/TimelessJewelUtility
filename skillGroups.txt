@@ -1,0 +1,306 @@
+_Left from templar
+Divine Wrath
+Divine Judgement
+Divine Fury
+Smashing Strikes
+Arcane Capacitor
+Faith and Steel
+Runesmith
+Overcharge
+Endurance
+Devotion
+Light of Divinity
+Holy Dominion
+Divine Fervour
+Sanctum of Thought
+
+_Left from marauder
+Hearty
+Barbarism
+Savage Wounds
+Cleaving
+Slaughter
+Stamina
+Harpooner
+Aggressive Bastion
+Juggernaut
+Lust for Carnage
+Robust
+Diamond Skin
+Spiked Bulwark
+Strong Arm
+Warrior Training
+Cannibalistic Rite
+
+_Near Resolute Technique
+Smashing Strikes
+Counterweight
+Whirling Barrier
+Sanctum of Thought
+Shamanistic Fury
+Vanquisher
+Disemboweling
+Bone Breaker
+Skull Cracking
+
+_Near Call to Arms
+Steadfast
+Tribal Fury
+Lava lash
+Blade of Cunning
+Bastion Breaker
+
+_Bottom Duelist
+Measured Fury
+Golem's Blood
+Cloth and Chain
+Adamant
+Vigour
+Savagery
+Revelry
+Dirty Techniques
+Assured Strike
+Titanic Impacts
+Ribcage Crusher
+Fury Bolts
+Art of the Gladiator
+Bravery
+Dervish
+Defiance
+Destroyer
+Surveillance
+Testudo
+
+_Near Point Blank
+Blade Barrier
+Feller of Foes
+Dazzling Strikes
+Thick Skin
+Bladedancer
+Fangs of Frost
+Twin Terrors
+Utmos Swiftness
+Longshot
+
+_Right from ranger
+Quickstep
+Weapon Artistry
+Aspect of the Lynx
+Intuition
+Silent Steps
+Careful Conservationist
+Inveterate
+Survivalist
+Heartseeker
+Trick Shot
+King of the Hill
+Master Fletcher
+Fervour
+Herbalism
+Winter Spirit
+Flash Freeze
+Acuity
+Swift Venoms
+
+_Near Perfect Agony
+Fatal Toxins
+Clever Thief
+Hunter's Gambit
+Force of Nature
+From the Shadows
+Careful Conservationist
+Inveterate
+Survivalist
+Geartseeker
+Silent Steps
+Piercing Shots
+Split Shot
+Trick Shot
+
+_Right from shadow
+Saboteur
+Elemental Focus
+Will of Blades
+Sleight of Hand
+Master of Blades
+Fangs of the Viper
+Resourcefulness
+Coldhearted Calculation
+Soul Thief
+Mind Drinker
+Infused
+Frenetic
+Blood Drinker
+Depth Perception
+One with Evil
+Claws of the Hawk
+Claws of the Magpie
+Backstabbing
+Flaying
+From the Shadows
+
+_Near eldritch battery
+Alacrity
+Physicue
+Elder Power
+Disintegration
+Fusillade
+Light Eater
+Efficient Explosives
+Throatseeker
+Mysticism
+Arcing Blows
+Successive Detonations
+Influence
+Whispers of Doom
+Utmost Intellect
+
+_Up from witch
+Breath of Flames
+Heart of Thunder
+Breath of Lightning
+Breath of Rime
+Heart of Ice
+Cruel Preparation
+Infused Flesh
+Deep Thoughts
+Mental Rapidity
+Enigmatic Defence
+Frost Walker
+Discord Artisan
+Mystic Bulwark
+Prodigal Perfection
+Lord of the Dead
+Arcane Will
+Wandslinger
+Skittering Runes
+Golem Commander
+Essence Surge
+
+_Near Zealot's Oath
+Hex Master
+Death Attunement
+Corruption
+Prism Weave
+Unnatural Calm
+Acrimony
+Enigmatic Reach
+Arcane Guarding
+Fearsome Force
+Serpent Stance
+Agility
+Might
+
+_Near Mind over Matter
+Anointed Flesh
+Asylum
+Essence Infusion
+Enduring Bond
+Essence Extraction
+Quick Recovery
+Arcanist's Dominion
+Fire Walker
+Annihilation
+
+_Near Pain Attunement
+Deep Wisdom
+Grave Intentions
+Vampirism
+Nimbleness
+Undertaker
+Melding
+Tolerance
+
+_Near Supreme Ego
+Overcharged
+True Strike
+Wasting
+Dire Torment
+Charisma
+Ballistics
+Replenishing Remedies
+Master Sapper
+Revenge of the Hunted
+Void Barrier
+Taste for Blood
+Adder's Touch
+
+_Near Elemental Equilibrium
+Avatar of the Hunt
+Gladiator's Perseverance
+Crystal Skin
+Weathered Hunter
+Burning Brutality
+Deadly Draw
+Heavy Draw
+Art of the Gladiator
+Profane Chemistry
+
+_Near Unwavering Stance
+Prismatic Skin
+Eagle Eye
+Bloodletting
+Admonisher
+Martial Experience
+Command of Steel
+Berserking
+
+_Bottom Scion
+Malicious Intent
+Constitution
+Path of the Warrior
+Totemic Zeal
+Battle Rouse
+Sentinel
+Exceptional Perfomance
+Arcane Chemistry
+Window of Opportunity
+Reflexes
+Path of the Hunter
+Hired Killer
+
+_Left Scion
+Relentless
+Veteran Soldier
+Ash, Frost and Storm
+Dreamer
+Forethought
+Decay Ward
+Potency of Will
+Foresight
+Path of the Savant
+Inspiring Bond
+Malicious Intent
+Path of the Warrior
+Constitution
+Totemic Zeal
+Shaper
+
+_Right Scion
+Thrill Killer
+Destructive Apparatus
+Inspiring Bond
+Foresight
+Path of the Savant
+Leadership
+Harrier
+True Strike
+Hired Killer
+Path of the Hunter
+Reflexes
+Potency of Will
+Exceptional Performance
+Window of Opportunity
+
+_Near Eternal Youth
+Steelwood Stance
+Sanctuary
+Expertise
+Ancestral Knowledge
+Blacksmith's Clout
+Deep Breaths
+Combat Stamina
+Powerful Bond
+Gravepact
+Dynamo
+Sancity
