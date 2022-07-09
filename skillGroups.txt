@@ -49,6 +49,7 @@ Tribal Fury
 Lava lash
 Blade of Cunning
 Bastion Breaker
+Executioner
 
 _Bottom Duelist
 Measured Fury
