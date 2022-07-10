@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"sort"
 	"strings"
 )
 
@@ -52,4 +53,23 @@ func PrintAddSkills() {
 	if AddCounter < 1 {
 		fmt.Println("No additional skills for this jewel found")
 	}
+}
+
+func SortSkills(quants map[string]byte) []string {
+	count := make(map[byte][]string)
+	var keys []byte
+	for k, v := range quants {
+		if _, ok := count[v]; !ok {
+			keys = append(keys, v)
+		}
+		count[v] = append(count[v], k)
+	}
+	sort.Slice(keys, func(i, j int) bool {
+		return keys[i] > keys[j]
+	})
+	var res []string
+	for _, k := range keys {
+		res = append(res, count[k]...)
+	}
+	return res
 }

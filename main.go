@@ -106,9 +106,6 @@ func StartRollingOverExactSeed() {
 	fmt.Scanln(&race)
 	fmt.Println("Input seed number")
 	fmt.Scanln(&Seed)
-	if race == 5 {
-		Seed /= 5
-	}
 	Jewels.FindAllPassives(race, Seed)
 }
 
@@ -123,12 +120,12 @@ func main() {
 	switch choice {
 	case 1:
 		StartRollingOverAllSeeds()
+		fmt.Println("Ended. Results in files: result.json, result_readable.txt")
 	case 2:
 		StartRollingOverExactSeed()
 	default:
 		fmt.Println("Wrong input. Goodbye!")
 	}
-	fmt.Println("Ended. Results in files: result.json, result_readable.txt")
 	fmt.Scanln(&choice)
 
 }

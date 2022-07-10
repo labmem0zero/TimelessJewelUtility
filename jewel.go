@@ -136,13 +136,17 @@ func (tjs *TimelessJewels) FindAllPassives(race uint32, seed uint32) {
 	tjs.AddNewJewel(race, 1, seed)
 	results := make(map[string]FoundSkills)
 	for _, tj := range tjs.Jewels {
-		if tj.Seed == seed {
+		fmt.Println("Seed:", tj.Seed)
+		if tj.Seed == seed/20 {
 			for skillGroupName, skillGroup := range tj.SkillGroups {
 				fs := FoundSkills{}
 				fs.skills = make(map[string]FoundSkill)
 				fs.skillsQuant = make(map[string]byte)
 				for _, skill := range skillGroup.Skills {
 					newskill := tj.ProcessSkill(skill)
+					if skillGroupName == "Left Scion" {
+						fmt.Println(newskill.OldSkillName, " -> ", newskill.Stats)
+					}
 					fso := FoundSkill{}
 					for _, v := range newskill.Stats {
 						fso.params = append(fso.params, v.StatName)
@@ -154,10 +158,12 @@ func (tjs *TimelessJewels) FindAllPassives(race uint32, seed uint32) {
 			}
 		}
 	}
+	fmt.Println("Ended")
 	for i, j := range results {
 		fmt.Println(i, ":")
-		for k, v := range j.skillsQuant {
-			fmt.Println("\t", replacer.Replace(k), " - ", v)
+		res := SortSkills(j.skillsQuant)
+		for _, v := range res {
+			fmt.Println("\t", replacer.Replace(v), " - ", j.skillsQuant[v])
 		}
 	}
 }
