@@ -1,6 +1,8 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 type TimelessJewel struct {
 	JewelName           string
@@ -102,6 +104,7 @@ func (tj *TimelessJewel) RollOverSkills() map[string]FoundSkillGroup {
 			skillsGroupsFound[skillGroupName] = fs
 		}
 	}
+
 	return skillsGroupsFound
 }
 
@@ -139,7 +142,6 @@ func (tjs *TimelessJewels) FindAllPassives(race uint32, seed uint32) {
 		if race == 5 {
 			seed = seed / 20
 		}
-		fmt.Println("Seed:", tj.Seed)
 		if tj.Seed == seed {
 			for skillGroupName, skillGroup := range tj.SkillGroups {
 				fs := FoundSkills{}
@@ -147,9 +149,6 @@ func (tjs *TimelessJewels) FindAllPassives(race uint32, seed uint32) {
 				fs.skillsQuant = make(map[string]byte)
 				for _, skill := range skillGroup.Skills {
 					newskill := tj.ProcessSkill(skill)
-					if skillGroupName == "Left Scion" {
-						fmt.Println(newskill.OldSkillName, " -> ", newskill.Stats)
-					}
 					fso := FoundSkill{}
 					for _, v := range newskill.Stats {
 						fso.params = append(fso.params, v.StatName)

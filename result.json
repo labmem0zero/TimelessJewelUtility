@@ -1,0 +1,212 @@
+{
+	"2297": {
+		"Left from marauder": {
+			"Cannibalistic Rite": {
+				"NewSkillName": "Cult of Fire",
+				"Stats": {
+					"base_fire_damage_resistance_%": {
+						"Roll": 30
+					},
+					"base_maximum_fire_damage_resistance_%": {
+						"Roll": 1
+					}
+				}
+			},
+			"Diamond Skin": {
+				"NewSkillName": "Cult of Fire",
+				"Stats": {
+					"base_fire_damage_resistance_%": {
+						"Roll": 30
+					},
+					"base_maximum_fire_damage_resistance_%": {
+						"Roll": 1
+					}
+				}
+			},
+			"Harpooner": {
+				"NewSkillName": "Flesh to Flames",
+				"Stats": {
+					"base_physical_damage_%_to_convert_to_fire": {
+						"Roll": 10
+					},
+					"fire_damage_+%": {
+						"Roll": 30
+					}
+				}
+			},
+			"Hearty": {
+				"NewSkillName": "Flesh to Flames",
+				"Stats": {
+					"base_physical_damage_%_to_convert_to_fire": {
+						"Roll": 10
+					},
+					"fire_damage_+%": {
+						"Roll": 32
+					}
+				}
+			},
+			"Robust": {
+				"NewSkillName": "Flesh to Flames",
+				"Stats": {
+					"base_physical_damage_%_to_convert_to_fire": {
+						"Roll": 10
+					},
+					"fire_damage_+%": {
+						"Roll": 34
+					}
+				}
+			},
+			"Warrior Training": {
+				"NewSkillName": "Cult of Fire",
+				"Stats": {
+					"base_fire_damage_resistance_%": {
+						"Roll": 22
+					},
+					"base_maximum_fire_damage_resistance_%": {
+						"Roll": 1
+					}
+				}
+			}
+		}
+	},
+	"3632": {
+		"Left from templar": {
+			"Arcane Capacitor": {
+				"NewSkillName": "Cult of Fire",
+				"Stats": {
+					"base_fire_damage_resistance_%": {
+						"Roll": 30
+					},
+					"base_maximum_fire_damage_resistance_%": {
+						"Roll": 1
+					}
+				}
+			},
+			"Divine Fury": {
+				"NewSkillName": "Flesh to Flames",
+				"Stats": {
+					"base_physical_damage_%_to_convert_to_fire": {
+						"Roll": 10
+					},
+					"fire_damage_+%": {
+						"Roll": 33
+					}
+				}
+			},
+			"Divine Wrath": {
+				"NewSkillName": "Cult of Fire",
+				"Stats": {
+					"base_fire_damage_resistance_%": {
+						"Roll": 30
+					},
+					"base_maximum_fire_damage_resistance_%": {
+						"Roll": 1
+					}
+				}
+			},
+			"Light of Divinity": {
+				"NewSkillName": "Cult of Fire",
+				"Stats": {
+					"base_fire_damage_resistance_%": {
+						"Roll": 21
+					},
+					"base_maximum_fire_damage_resistance_%": {
+						"Roll": 1
+					}
+				}
+			},
+			"Overcharge": {
+				"NewSkillName": "Flesh to Flames",
+				"Stats": {
+					"base_physical_damage_%_to_convert_to_fire": {
+						"Roll": 10
+					},
+					"fire_damage_+%": {
+						"Roll": 30
+					}
+				}
+			},
+			"Runesmith": {
+				"NewSkillName": "Flesh to Flames",
+				"Stats": {
+					"base_physical_damage_%_to_convert_to_fire": {
+						"Roll": 10
+					},
+					"fire_damage_+%": {
+						"Roll": 35
+					}
+				}
+			}
+		}
+	},
+	"7239": {
+		"Up from witch": {
+			"Deep Thoughts": {
+				"NewSkillName": "Cult of Fire",
+				"Stats": {
+					"base_fire_damage_resistance_%": {
+						"Roll": 25
+					},
+					"base_maximum_fire_damage_resistance_%": {
+						"Roll": 1
+					}
+				}
+			},
+			"Discord Artisan": {
+				"NewSkillName": "Flesh to Flames",
+				"Stats": {
+					"base_physical_damage_%_to_convert_to_fire": {
+						"Roll": 10
+					},
+					"fire_damage_+%": {
+						"Roll": 35
+					}
+				}
+			},
+			"Enigmatic Defence": {
+				"NewSkillName": "Flesh to Flames",
+				"Stats": {
+					"base_physical_damage_%_to_convert_to_fire": {
+						"Roll": 10
+					},
+					"fire_damage_+%": {
+						"Roll": 35
+					}
+				}
+			},
+			"Essence Surge": {
+				"NewSkillName": "Flesh to Flames",
+				"Stats": {
+					"base_physical_damage_%_to_convert_to_fire": {
+						"Roll": 10
+					},
+					"fire_damage_+%": {
+						"Roll": 27
+					}
+				}
+			},
+			"Heart of Ice": {
+				"NewSkillName": "Cult of Fire",
+				"Stats": {
+					"base_fire_damage_resistance_%": {
+						"Roll": 21
+					},
+					"base_maximum_fire_damage_resistance_%": {
+						"Roll": 1
+					}
+				}
+			},
+			"Infused Flesh": {
+				"NewSkillName": "Cult of Fire",
+				"Stats": {
+					"base_fire_damage_resistance_%": {
+						"Roll": 30
+					},
+					"base_maximum_fire_damage_resistance_%": {
+						"Roll": 1
+					}
+				}
+			}
+		}
+	}
+}
