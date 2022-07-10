@@ -19,6 +19,7 @@ SkillThree
 SkillLast
 ```
 
-Results are in results.json(if u want next manipulations) or in results_readable.txt if you are default user.
+All seeds calculation results are in results.json(if u want next manipulations) or in results_readable.txt if you are default user.
+Exact seed result will be printed on screen(to few information to be packed)
 
 Enjoy!

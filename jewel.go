@@ -136,8 +136,11 @@ func (tjs *TimelessJewels) FindAllPassives(race uint32, seed uint32) {
 	tjs.AddNewJewel(race, 1, seed)
 	results := make(map[string]FoundSkills)
 	for _, tj := range tjs.Jewels {
+		if race == 5 {
+			seed = seed / 20
+		}
 		fmt.Println("Seed:", tj.Seed)
-		if tj.Seed == seed/20 {
+		if tj.Seed == seed {
 			for skillGroupName, skillGroup := range tj.SkillGroups {
 				fs := FoundSkills{}
 				fs.skills = make(map[string]FoundSkill)
